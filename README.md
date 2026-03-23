@@ -1,4 +1,4 @@
-# hey, i'm  — nvm, doesn't matter. 👋 
+# hey, i'm Adithya Srivatsa. 👋 
 
 <div align="center">
   <img src="./levi.gif" width="600"/>
