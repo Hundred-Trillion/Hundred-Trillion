@@ -38,9 +38,7 @@ the people turning it into a LinkedIn personality skipped the "actually understa
 
 ## 🐧 on linux
 
-I don't "mess with" Linux. I **customize** it. There's a difference.
-
-And honestly? I don't want Linux everywhere. Linux is a **realm**. You earn your way in. Let Windows handle the zombies. Some ecosystems exist to protect people from themselves and that's fine. **Keep the normies out. The gates stay closed.**
+I don't want Linux everywhere. Linux is a **realm**. You earn your way in. Let Windows handle the zombies. Some ecosystems exist to protect people from themselves and that's fine. **Keep the normies out. The gates stay closed.**
 
 Distrohopping is a lifestyle. I will not be fixed.
 
